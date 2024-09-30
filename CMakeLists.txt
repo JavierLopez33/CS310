@@ -13,4 +13,5 @@ add_executable(test test.cpp)
 add_executable(ch05ex33 Ch05Exercise33.cpp)
 add_executable(M4Correction Discussions/Corrections/M4DiscussionCorrection.cpp)
 add_executable(w5dis Discussions/W5Discussion.cpp)
+add_executable(ch06ex14 Ch06Exercise14.cpp)
 
